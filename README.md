@@ -43,7 +43,7 @@ Specific sentiment applicable only to your company
 
 Bedrock is foundational model as API -- is serverless
 
-Model artifacts - weights
+Model artifacts - weights - files needed to run the model
 
 External Guardrails - e.g: Financial advice
 
@@ -76,8 +76,17 @@ top P top K  - which words to consider
 <img width="1159" alt="image" src="https://github.com/user-attachments/assets/47e40a40-d660-4194-a3ff-75109d21ecf1" />
 
 
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/38c5851f-4f68-4bc7-a963-61b1505c15e3" />
 
+In fine tuning - update the brain of the model - we are not training the model - just the adjust the parameter - prompt : completion json 
+Continued pre training - Just un labelled data 
 
+Hyperparameters - paramters at the time of training
+epoch - no of iterations of training data in 1 cycle of training model
+parameters - weight
 
+fine tuning - 20 - 30 samples - 2 to 4 hours
+ARN - Amazon Resource name - in API can ve used as model ID
+Continued pre training - lot of un labelled data
 
 
