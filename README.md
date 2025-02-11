@@ -89,4 +89,4 @@ fine tuning - 20 - 30 samples - 2 to 4 hours
 ARN - Amazon Resource name - in API can ve used as model ID
 Continued pre training - lot of un labelled data
 
-
+ https://aws.amazon.com/blogs/aws/build-faster-more-cost-efficient-highly-accurate-models-with-amazon-bedrock-model-distillation-preview/
